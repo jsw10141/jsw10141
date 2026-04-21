@@ -1,4 +1,4 @@
-<img width="1080" height="1920" alt="Image" src="https://github.com/user-attachments/assets/bb16ed92-0b58-4315-a3ab-f88b465b9d4c" />
+<img width="225" height="225" alt="Image" src="https://github.com/user-attachments/assets/e597aa17-f039-47aa-8838-70e8d625cf85" />
 
 
 <h1 align="center">Hi, I'm Cho Seung-won 👋</h1>
