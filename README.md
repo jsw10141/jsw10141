@@ -7,6 +7,11 @@
   <b>한신대학교 · 202678043</b>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/한신대학교-0057A8?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/ID-202678043-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Developer-purple?style=flat-square" />
+</p>
 
 
 ## Hi there 👋
