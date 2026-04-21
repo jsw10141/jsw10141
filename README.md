@@ -1,6 +1,13 @@
 <img width="1080" height="1920" alt="Image" src="https://github.com/user-attachments/assets/bb16ed92-0b58-4315-a3ab-f88b465b9d4c" />
 
 
+<h1 align="center">Hi, I'm Cho Seung-won 👋</h1>
+
+<p align="center">
+  <b>한신대학교 · 202678043</b>
+</p>
+
+
 
 ## Hi there 👋
 
